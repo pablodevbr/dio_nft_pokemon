@@ -15,7 +15,7 @@ Foram criados 4 personagens pokemons na PokeDIO e enviados para a blockchain do 
 
 ## Execução
 
-A execução dos testes se deu em ambiente REMIX com deploy do contrato
+A execução dos testes deu-se em ambiente REMIX com deploy do contrato
 
 <img src="./img/remix01.png" alt="depoly do contrato" style="width:250px;">
 
