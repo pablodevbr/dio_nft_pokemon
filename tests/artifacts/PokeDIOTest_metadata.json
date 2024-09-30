@@ -35,7 +35,7 @@
 		"compilationTarget": {
 			"tests/PodeDIO_test.sol": "PokeDIOTest"
 		},
-		"evmVersion": "cancun",
+		"evmVersion": "london",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
