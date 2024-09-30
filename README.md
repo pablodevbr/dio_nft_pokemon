@@ -17,17 +17,17 @@ Foram criados 4 personagens pokemons na PokeDIO e enviados para a blockchain do 
 
 A execução dos testes se deu em ambiente REMIX com deploy do contrato
 
-<img src="./img/remix01.png" alt="depoly do contrato" style="width:150px;">
+<img src="./img/remix01.png" alt="depoly do contrato" style="width:250px;">
 
 
 Realização da batalha entre os pokemons
 
-<img src="./img/remix02.png" alt="batalha de pokedio" style="width:150px;">
+<img src="./img/remix02.png" alt="batalha de pokedio" style="width:250px;">
 
 
 Visualização dos níveis de cada Pokemon
 
-<img src="./img/remix03.png" alt="níveis dos pokemons" style="width:150px;">
+<img src="./img/remix03.png" alt="níveis dos pokemons" style="width:250px;">
 
 
 ## Tecnologias
