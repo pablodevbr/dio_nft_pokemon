@@ -14,6 +14,10 @@ Foram criados 4 personagens pokemons na PokeDIO e enviados para a blockchain do 
 <img src="https://ipfs.io/ipfs/QmYKbqkomCqkjeRM6ohNVzaVEBhWm1oUT7eN8WAarVRFKC?filename=pokemon_03.png" alt="pokemon 03" style="width:20%;">
 <img src="https://ipfs.io/ipfs/QmWxdjcXxDyUbAoN13AMr5PpKpP2ofcxhvsRYUeEUntrDa?filename=pokemon_04.png" alt="pokemon 04" style="width:20%;">
 
+| pokemon 01   | pokemon 02 | pokemon 03   | pokemon 04  |
+|:--------:|:--------:|:--------:|:--------:|
+| <img src="https://ipfs.io/ipfs/QmfATxxnKCrMTLZgBKvjQqgXejsHLpqkeRWVKRTBMvceeF?filename=pokemon_01.png" alt="pokemon 01" style="width:20%;"> | <img src="https://ipfs.io/ipfs/QmQivXKW7P4na5y7Me4sXLwvfnCP13UL4tcRR2NpraBXsU?filename=pokemon_02.png" alt="pokemon 02" style="width:20%;"> | <img src="https://ipfs.io/ipfs/QmYKbqkomCqkjeRM6ohNVzaVEBhWm1oUT7eN8WAarVRFKC?filename=pokemon_03.png" alt="pokemon 03" style="width:20%;"> | <img src="https://ipfs.io/ipfs/QmWxdjcXxDyUbAoN13AMr5PpKpP2ofcxhvsRYUeEUntrDa?filename=pokemon_04.png" alt="pokemon 04" style="width:20%;"> |
+
 ## Tecnologias
 * SOLIDITY
 * REMIX
