@@ -662,7 +662,7 @@
 		"compilationTarget": {
 			"contracts/PokeDIO.sol": "PokeDIO"
 		},
-		"evmVersion": "cancun",
+		"evmVersion": "london",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
